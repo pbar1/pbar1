@@ -1,7 +1,5 @@
 <h1 align="center">Gym Badges</h1>
 
-Gotta collect 'em all :wink:
-
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://www.youracclaim.com/badges/5cc416cb-a464-4d05-9f0b-30ea34ccac7d/public_url">
     <img height="100" width="100" src="../assets/lf-ckad.png" alt="Certified Kubernetes Application Developer">
