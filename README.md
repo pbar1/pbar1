@@ -1,5 +1,3 @@
-<h1 align="center">Hey GitHub! Pierce here.</h1>
-
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://www.red-wheelbarrow.com">
     <img src="https://img.shields.io/badge/hello-friend-critical?style=for-the-badge" alt="Hello, friend">
