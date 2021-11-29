@@ -1,5 +1,6 @@
 <h3 align="center">Hello there!</h3>
 
+<!-- https://simpleicons.org/ -->
 <p align="center">
   <img alt="Consul" src="https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -10,6 +11,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Arch" src="https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Nix" src="https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
