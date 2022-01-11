@@ -5,6 +5,7 @@
   <img alt="Consul" src="https://img.shields.io/badge/-Consul-F24C53?style=flat-square&logo=consul&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Shell" src="https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
