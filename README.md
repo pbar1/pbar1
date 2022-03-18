@@ -25,9 +25,9 @@
   </a>
 </p>
 
-<p align="center">
+<h3 align="center">
   <a href="docs/badges.md">Certifications</a>
-</p>
+</h3>
 
 <p align="center">
   <a href="https://github.com/pbar1" target="_blank">
