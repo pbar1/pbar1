@@ -29,9 +29,9 @@
 <!-- Hack to display theme matching system light/dark mode  -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbar1&layout=compact&hide=css&langs_count=6&exclude_repo=vault-rs&theme=default#gh-light-mode-only" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbar1&layout=compact&hide=css,html,smarty,mustache&langs_count=6&exclude_repo=vault-rs&theme=default#gh-light-mode-only" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbar1&layout=compact&hide=css&langs_count=6&exclude_repo=vault-rs&theme=github_dark#gh-dark-mode-only" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbar1&layout=compact&hide=css,html,smarty,mustache&langs_count=6&exclude_repo=vault-rs&theme=github_dark#gh-dark-mode-only" />
   </a>
 </p>
