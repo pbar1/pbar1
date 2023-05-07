@@ -2,12 +2,24 @@
 
 <!-- https://simpleicons.org/ -->
 <p align="center">
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img alt="Nix" src="https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-  <img alt="Vault" src="https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white">
-  <img alt="Sapling" src="https://img.shields.io/badge/-Sapling-488359?style=flat-square&logo=mercurial&logoColor=white">
+  <a href="https://www.rust-lang.org/">
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white">
+  </a>
+  <a href="https://go.dev/">
+    <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  </a>
+  <a href="https://nixos.org/">
+    <img alt="Nix" src="https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white">
+  </a>
+  <a href="https://kubernetes.io/">
+    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  </a>
+  <a href="https://www.vaultproject.io/">
+    <img alt="Vault" src="https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white">
+  </a>
+  <a href="https://sapling-scm.com/">
+    <img alt="Sapling" src="https://img.shields.io/badge/-Sapling-488359?style=flat-square&logo=mercurial&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
