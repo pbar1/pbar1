@@ -1,7 +1,5 @@
 <h2 align="center">Hello friend :comet:</h2>
 
-<p align="center">...that's lame. Maybe I should give you a name?</p>
-
 <!-- https://simpleicons.org/ -->
 <p align="center">
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white">
