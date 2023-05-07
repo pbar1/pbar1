@@ -7,6 +7,7 @@
   <img alt="Nix" src="https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
   <img alt="Vault" src="https://img.shields.io/badge/-Vault-000000?style=flat-square&logo=vault&logoColor=white">
+  <img alt="Sapling" src="https://img.shields.io/badge/-Sapling-488359?style=flat-square&logo=mercurial&logoColor=white">
 </p>
 
 <p align="center">
