@@ -9,13 +9,18 @@
 
 <p align="center">
   <details>
-    <summary>Badges</summary>
+    <summary>GitHub Stats</summary>
     <br />
-    <!-- Hack to display theme matching system light/dark mode  -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbar1&layout=compact&hide=css,html,smarty,mustache,hcl&langs_count=6&theme=default#gh-light-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbar1&layout=compact&hide=css,html,smarty,mustache,hcl&langs_count=6&theme=github_dark#gh-dark-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pbar1&show_icons=true&theme=default#gh-light-mode-only" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pbar1&show_icons=true&theme=github_dark#gh-dark-mode-only" />
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pbar1&layout=compact&hide=css,html,smarty,mustache,hcl&langs_count=6&theme=github_dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=pbar1&layout=compact&hide=css,html,smarty,mustache,hcl&langs_count=6" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pbar1&layout=compact&hide=css,html,smarty,mustache,hcl&langs_count=6" />
+    </picture>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=pbar1&show_icons=true&theme=github_dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=pbar1&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats.vercel.app/api?username=pbar1&show_icons=true" />
+    </picture>
   </details>
 </p>
 
